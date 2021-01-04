@@ -1,14 +1,14 @@
 {
-    "name": "laravel-admin-ext/api-tester",
-    "description": "Api tester for laravel",
+    "name": "lmt9x/laramin-api-tester",
+    "description": "Api tester for laramin",
     "type": "library",
-    "keywords": ["laravel-admin", "api", "tester"],
-    "homepage": "https://github.com/laravel-admin-extensions/api-tester",
+    "keywords": ["laramin", "api", "tester"],
+    "homepage": "https://github.com/lmt9x/laramin-api-tester",
     "license": "MIT",
     "authors": [
         {
             "name": "z-song",
-            "email": "zosong@126.com"
+            "email": "lmt9x@gmail.com"
         }
     ],
     "require": {
